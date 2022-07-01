@@ -1,3 +1,6 @@
+{% extends 'base.html.twig' %}
+{% block title %}Tracks | {{ parent() }}{% endblock %}
+ {% block body %}
 <h1>{{ title }}</h1>
 {# TODO: add an image of the record #}
 <div>
@@ -10,3 +13,4 @@
         {% endfor %}
     </ul>
 </div>
+ {% endblock %}
