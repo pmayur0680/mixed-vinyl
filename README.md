@@ -18,4 +18,4 @@ Skills learned throughout the course includes:
 9. Using Symfony Debug Toolbar & Profiler
 10. Adding a Layout & CSS Files
 11. Generate Urls & bin/console
-12. JSON API Endpoint
+12. JSON API endpoint & validate routes
