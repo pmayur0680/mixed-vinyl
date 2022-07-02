@@ -24,3 +24,4 @@ Skills learned throughout the course includes:
 15. Setting up Webpack Encore
 16. Packaging JS and CSS with Encore
 17. Installing 3rd Party Code into JS/CSS
+18. Stimulus Library
