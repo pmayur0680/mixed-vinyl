@@ -22,3 +22,5 @@ Skills learned throughout the course includes:
 13. Service Objects
 14. Profiler for API Requests & Rendering a Twig Template Manually
 15. Setting up Webpack Encore
+16. Packaging JS and CSS with Encore
+17. Installing 3rd Party Code into JS/CSS
