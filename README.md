@@ -19,3 +19,6 @@ Skills learned throughout the course includes:
 10. Adding a Layout & CSS Files
 11. Generate Urls & bin/console
 12. JSON API endpoint & validate routes
+13. Service Objects
+14. Profiler for API Requests & Rendering a Twig Template Manually
+15. Setting up Webpack Encore
