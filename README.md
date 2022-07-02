@@ -5,6 +5,10 @@
 A Symfony learning project by following Harmonious Development with Symfony 6 course available on
 https://symfonycasts.com/.
 
+![Alt text](https://user-images.githubusercontent.com/101486770/177011951-fc426d94-34b3-42c2-b79c-7a3cbc3ba07b.png?raw=true "Mixed Vinyl") <br>
+
+
+
 Skills learned throughout the course includes:
 
 1. Symfony CLI tool to build, run, and manage Symfony applications directly from your terminal
@@ -25,3 +29,4 @@ Skills learned throughout the course includes:
 16. Packaging JS and CSS with Encore
 17. Installing 3rd Party Code into JS/CSS
 18. Using Stimulus Library
+19. Integration with Turbo for single-page-app and real-time experience
